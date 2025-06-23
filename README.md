@@ -13,6 +13,9 @@ This dashboard presents a monthly summary of sales using fictional data, applyin
 - Use of slicers and a timeline to filter data interactively
 - Design of a clean and functional dashboard layout with KPIs and visuals
 
+## 📸 Preview
+![Sales Dashboard Preview](images/dashboard.png)
+
 ## 📚 Source / Reference
 Project based on the practice challenge, original link: [link to resource](https://www.linkedin.com/feed/update/urn:li:activity:7341738985959944193?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCFlkgB63vjQLFp7zHipAmDheZk9MWQraA)
 
